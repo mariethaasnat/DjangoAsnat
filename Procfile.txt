@@ -1,0 +1,1 @@
+web: gunicorn DjangoAsnat.wsgi --log-file -
